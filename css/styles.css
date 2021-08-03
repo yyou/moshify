@@ -384,3 +384,21 @@ a {
   top: -6px;
   right: 5%;
 }
+
+/* Medias */
+
+.media {
+  display: flex;
+}
+
+.media__image {
+  padding-top: 1rem;
+}
+
+.media__body {
+  margin: 0 2rem;
+}
+
+.media__title {
+  margin-top: 0;
+}
